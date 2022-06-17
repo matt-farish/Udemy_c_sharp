@@ -1,0 +1,15 @@
+G:\Files\Programming\Udemy\Udemy_c_sharp\HelloWorld\HelloWorld\bin\Debug\net6.0\HelloWorld.exe
+G:\Files\Programming\Udemy\Udemy_c_sharp\HelloWorld\HelloWorld\bin\Debug\net6.0\HelloWorld.deps.json
+G:\Files\Programming\Udemy\Udemy_c_sharp\HelloWorld\HelloWorld\bin\Debug\net6.0\HelloWorld.runtimeconfig.json
+G:\Files\Programming\Udemy\Udemy_c_sharp\HelloWorld\HelloWorld\bin\Debug\net6.0\HelloWorld.dll
+G:\Files\Programming\Udemy\Udemy_c_sharp\HelloWorld\HelloWorld\bin\Debug\net6.0\HelloWorld.pdb
+G:\Files\Programming\Udemy\Udemy_c_sharp\HelloWorld\HelloWorld\obj\Debug\net6.0\HelloWorld.csproj.AssemblyReference.cache
+G:\Files\Programming\Udemy\Udemy_c_sharp\HelloWorld\HelloWorld\obj\Debug\net6.0\HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+G:\Files\Programming\Udemy\Udemy_c_sharp\HelloWorld\HelloWorld\obj\Debug\net6.0\HelloWorld.AssemblyInfoInputs.cache
+G:\Files\Programming\Udemy\Udemy_c_sharp\HelloWorld\HelloWorld\obj\Debug\net6.0\HelloWorld.AssemblyInfo.cs
+G:\Files\Programming\Udemy\Udemy_c_sharp\HelloWorld\HelloWorld\obj\Debug\net6.0\HelloWorld.csproj.CoreCompileInputs.cache
+G:\Files\Programming\Udemy\Udemy_c_sharp\HelloWorld\HelloWorld\obj\Debug\net6.0\HelloWorld.dll
+G:\Files\Programming\Udemy\Udemy_c_sharp\HelloWorld\HelloWorld\obj\Debug\net6.0\refint\HelloWorld.dll
+G:\Files\Programming\Udemy\Udemy_c_sharp\HelloWorld\HelloWorld\obj\Debug\net6.0\HelloWorld.pdb
+G:\Files\Programming\Udemy\Udemy_c_sharp\HelloWorld\HelloWorld\obj\Debug\net6.0\HelloWorld.genruntimeconfig.cache
+G:\Files\Programming\Udemy\Udemy_c_sharp\HelloWorld\HelloWorld\obj\Debug\net6.0\ref\HelloWorld.dll
